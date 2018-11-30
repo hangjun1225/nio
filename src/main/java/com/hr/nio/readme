@@ -1,0 +1,54 @@
+test1
+	Test1. 读文件例子
+	Test2. 写文件例子
+	Test3. 读写文件例子
+	
+	
+test2.
+	Test1. 缓冲区相关操作
+	Test2. 分散 scatter 和  聚集 gather
+	Test3. 通道之间的数据传输
+	Test4. 文件锁定
+
+test3
+	Test1.	selector的使用
+
+
+test4
+	test1. fileChannel的使用
+	test2. SocketChannel的使用  阻塞
+	test3. socketChannel的使用 非阻塞
+	test4. serverSocketChannel的使用
+	test5. DatagramChannel的使用
+	
+test5
+	test1. pipe的使用
+	
+test6
+	test1. NIO的path的使用
+	test2. NIO的Files的使用
+	
+test7
+	test1. AsynchronousFileChannel
+	
+other
+	Test1. 文件锁定
+	Test2. 设置字符集
+	
+test8    多人聊天室的实现	
+
+本项目主要参考
+http://ifeve.com/java-nio-asynchronousfilechannel/
+http://tutorials.jenkov.com/java-nio/asynchronousfilechannel.html
+
+https://www.ibm.com/developerworks/cn/education/java/j-nio/j-nio.html
+
+	
+
+other:(看一眼即可)
+Java-1.7新特性之文件路径
+https://blog.csdn.net/zmken497300/article/details/51868752
+	
+	
+	
+
